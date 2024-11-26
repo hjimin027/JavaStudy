@@ -7,6 +7,7 @@ public class spinString {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String a = sc.next();
+        sc.close();
         
         for (char i : a.toCharArray()) {
             System.out.println(i);
