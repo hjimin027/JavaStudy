@@ -21,4 +21,4 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 # 복습할 코드
 1. 기초 트레이닝
-   * [문자열 겹쳐쓰기 - substring()](overlap_String.java)
+   * [문자열 겹쳐쓰기 - substring()](src/overlap_String.java)
