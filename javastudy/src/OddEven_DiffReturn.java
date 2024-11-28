@@ -1,3 +1,8 @@
+// https://school.programmers.co.kr/learn/courses/30/lessons/181935
+// 양의 정수 n이 매개변수로 주어질 때, 
+// n이 홀수라면 n 이하의 모든 홀수 합을 return
+// n이 짝수라면 n 이하의 모든 짝수의 제곱의 합을 return
+
 public class OddEven_DiffReturn {
     public int solution(int n) {
         int answer = 0;
