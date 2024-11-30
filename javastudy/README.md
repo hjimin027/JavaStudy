@@ -3,6 +3,7 @@
    * [문자열 겹쳐쓰기 - substring()](src/overlap_String.java)
    * [문자열 반복하기 - str.repeat(n)](src/repeat_String.java)
    * [두 정수를 붙여서 쓰기, 큰 값 반환 - 삼항연산자, Math.max(), 정수를 문자열로](src/add_int2String.java)
+   * [문자열 비교 - .equals() 사용](src/StringCondition.java)
 
 
 
