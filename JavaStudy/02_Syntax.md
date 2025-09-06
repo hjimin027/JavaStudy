@@ -18,4 +18,5 @@ public class Main {
 출력 함수다.
 
 
-# 
+> `System`은 자바 내장함수.<br>
+> `println`는 print line이라는 뜻
